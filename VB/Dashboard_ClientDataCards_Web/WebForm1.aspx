@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="true" CodeBehind="WebForm1.aspx.vb" 
          Inherits="Dashboard_ClientDataCards_Web.WebForm1" %>
 
-<%@ Register Assembly="DevExpress.Dashboard.v15.1.Web, Version=15.1.7.0, 
+<%@ Register Assembly="DevExpress.Dashboard.v15.1.Web, Version=15.1.3.0, 
                                                        Culture=neutral, 
                                                        PublicKeyToken=b88d1754d700e49a"
              Namespace="DevExpress.DashboardWeb" TagPrefix="dx" %>
