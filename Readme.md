@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ClientData.js](./CS/Dashboard_ClientDataCards_Web/Scripts/ClientData.js) (VB: [ClientData.js](./VB/Dashboard_ClientDataCards_Web/Scripts/ClientData.js))
+* [WebForm1.aspx](./CS/Dashboard_ClientDataCards_Web/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/Dashboard_ClientDataCards_Web/WebForm1.aspx))
+<!-- default file list end -->
 # How to obtain data from a Sparkline field corresponding to a selected row or card
 
 
