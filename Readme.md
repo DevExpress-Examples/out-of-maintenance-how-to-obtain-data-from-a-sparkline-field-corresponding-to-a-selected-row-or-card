@@ -5,6 +5,9 @@
 * [WebForm1.aspx](./CS/Dashboard_ClientDataCards_Web/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/Dashboard_ClientDataCards_Web/WebForm1.aspx))
 <!-- default file list end -->
 # How to obtain data from a Sparkline field corresponding to a selected row or card
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t148767)**
+<!-- run online end -->
 
 
 <p><strong>Note:</strong> <em>Starting with v17.1, we recommend using the <a href="https://documentation.devexpress.com/Dashboard/CustomDocument16976.aspx">ASPxDashboard control</a> or a corresponding <a href="https://documentation.devexpress.com/Dashboard/CustomDocument16977.aspx">ASP.NET MVC extension</a> to display dashboards within web applications.</em><br> </p>
