@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to obtain data from a Sparkline field corresponding to a selected row or card
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t148767)**
+**[[Run Online]](https://codecentral.devexpress.com/t148767/)**
 <!-- run online end -->
 
 
